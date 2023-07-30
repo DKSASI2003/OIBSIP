@@ -5,4 +5,6 @@
 
 **The task 2- Unemployment in India** - EDA **(Exploratory Data Analysis)** and i have visualized the data insights using various graphs.   
 
+**The task 3- Cars Price Prediction** -  i have used **(Linear Regression)** model to train the model and predict the outcomes and evaluvate the outcomes.   
+
 **The task 5- Sales Prediction** - i have used rfr **(Random Forest Regression)** model to train the model and predict the outcomes and evaluvate the outcomes.
